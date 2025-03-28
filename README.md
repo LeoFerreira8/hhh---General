@@ -1,4 +1,4 @@
-This is a program to calculate the parameter space for 2HDM models that are accepted by theoretical and experimental constraints. This was the base code used in https://arxiv.org/abs/2411.00094.
+This is a program to calculate the parameter space for 331 - EFT model that is accepted by theoretical and experimental constraints. This was the base code used in https://arxiv.org/abs/2411.00094.
 
 Instructions:
 
